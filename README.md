@@ -240,3 +240,24 @@ public class EditorTexto {
         editor.iniciar();
     }
 }
+
+
+
+ BIENVENIDO AL EDITOR DE TEXTO
+
+ EDITOR DE TEXTO
+1.  Escribir texto
+2.  Deshacer
+3.  Rehacer
+4.  Mostrar texto
+5.  Salir
+ Elija una opción: 1
+Escriba el texto: Hola mundo
+ Texto agregado
+
+ TEXTO ACTUAL:
+==================
+Hola mundo
+==================
+
+ Estado: Principal=1 | Secundaria=0
